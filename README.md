@@ -19,6 +19,6 @@ This project involves a comprehensive Exploratory Data Analysis (EDA) of Netflix
 * Highlighted the most common ratings to determine the platform's primary audience.
 
 ## 📋 How to Run
-1. Open `NETFLIX (3).ipynb` in Google Colab.
+1. Open `Netflix_Data_Analysis.ipynb` in Google Colab.
 2. Upload the `netflix_titles.csv` dataset when prompted (or ensure the path is correct).
 3. Run all cells to generate the visualizations and statistical summaries.
